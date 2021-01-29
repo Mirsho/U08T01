@@ -1,0 +1,17 @@
+{
+  "name": "11.u08t01",
+  "version": "1.0.0",
+  "description": "Juego de ciudades y paises.",
+  "main": "index.js",
+  "dependencies": {
+    "jsdoc": "^3.6.6"
+  },
+  "devDependencies": {
+    "eslint": "^7.18.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrián Perera Hernández",
+  "license": "ISC"
+}
